@@ -1,0 +1,13 @@
+C:\Users\Spiderman\source\repos\ScreenCsAdb\ScreenCsAdb\bin\Debug\ScreenCsAdb.exe.config
+C:\Users\Spiderman\source\repos\ScreenCsAdb\ScreenCsAdb\bin\Debug\ScreenCsAdb.exe
+C:\Users\Spiderman\source\repos\ScreenCsAdb\ScreenCsAdb\bin\Debug\ScreenCsAdb.pdb
+C:\Users\Spiderman\source\repos\ScreenCsAdb\ScreenCsAdb\obj\Debug\ScreenCsAdb.csprojAssemblyReference.cache
+C:\Users\Spiderman\source\repos\ScreenCsAdb\ScreenCsAdb\obj\Debug\ScreenCsAdb.Form1.resources
+C:\Users\Spiderman\source\repos\ScreenCsAdb\ScreenCsAdb\obj\Debug\ScreenCsAdb.Properties.Resources.resources
+C:\Users\Spiderman\source\repos\ScreenCsAdb\ScreenCsAdb\obj\Debug\ScreenCsAdb.csproj.GenerateResource.cache
+C:\Users\Spiderman\source\repos\ScreenCsAdb\ScreenCsAdb\obj\Debug\ScreenCsAdb.csproj.CoreCompileInputs.cache
+C:\Users\Spiderman\source\repos\ScreenCsAdb\ScreenCsAdb\obj\Debug\ScreenCsAdb.exe
+C:\Users\Spiderman\source\repos\ScreenCsAdb\ScreenCsAdb\obj\Debug\ScreenCsAdb.pdb
+C:\Users\Spiderman\source\repos\ScreenCsAdb\ScreenCsAdb\bin\Debug\SharpAdbClient.dll
+C:\Users\Spiderman\source\repos\ScreenCsAdb\ScreenCsAdb\bin\Debug\SharpAdbClient.pdb
+C:\Users\Spiderman\source\repos\ScreenCsAdb\ScreenCsAdb\obj\Debug\ScreenCsAdb.csproj.CopyComplete
