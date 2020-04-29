@@ -1,7 +1,7 @@
 # AdbCsGui
 A tool useful to manage Android devices over ADB
 
-//TODO add  files features
+**This tool is archived and will NOT be continued. if you want an alternative, check out [my other project](https://github.com/adryzz/AdbLiveTweaks/) that i'm starting now**
 
 Features:
 
